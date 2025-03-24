@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="~/css/admin.css" asp-append-version="true">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="admin-container">
+        <!-- Sidebar -->
+        <div class="sidebar" id="sidebar">
+            <button id="toggleSidebar" class="toggle-btn">☰</button>
+            <h2 class="sidebar-title">Admin Panel</h2>
+            <ul class="sidebar-menu">
+                <li><a href="#" id="dashboard"><i class="emoji">🏠</i> <span class="nav-text">Trang chủ</span></a></li>
+                <li><a href="#" id="manageUsers"><i class="emoji">🙍‍♂️</i> <span class="nav-text">Quản lý Người dùng</span></a></li>
+                <li><a href="#" id="managePrograms"><i class="emoji">📜</i> <span class="nav-text">Quản lý Chương trình</span></a></li>
+                <li><a href="#" id="manageDonors"><i class="emoji">💰</i> <span class="nav-text">Quản lý Nhà hảo tâm</span></a></li>
+            </ul>
+            <button class="logout-btn">🚪 Đăng xuất</button>
+        </div>
+
+
+        <!-- Nội dung chính -->
+        <main class="admin-content">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Hệ thống Admin. All rights reserved.</p>
+    </footer>
+    <script>
+        $(document).ready(function () {
+            console.log("Trang Admin đã tải thành công!");
+
+            // Khi bấm vào "Quản lý Người dùng", nội dung được tải vào
+            $("#manageUsers").click(function (e) {
+                e.preventDefault(); // Ngăn chặn load lại trang
+                console.log("Bạn vừa bấm vào Quản lý Người dùng");
+
+                $.ajax({
+                    url: "/Admin/User/Index", // Thay đổi URL theo Controller của bạn
+                    type: "GET",
+                    success: function (response) {
+                        console.log("Tải nội dung thành công!");
+                        $(".admin-content").html(response);
+                    },
+                    error: function (xhr, status, error) {
+                        console.error("Lỗi khi tải nội dung:", error);
+                    }
+                });
+            });
+        });
+    </script>
+
+
+</body>
+
+</html>

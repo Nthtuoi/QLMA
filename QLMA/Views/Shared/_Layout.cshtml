@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quỹ Từ Thiện</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <header class="bg-light">
+        <div class="container d-flex justify-content-between align-items-center py-2">
+            <div>
+                <strong>Liên hệ:</strong> (+84) 902115231
+                <strong>Email:</strong> MaiAmYeuThuong@gmail.com
+            </div>
+            <div>
+                <a href="#" class="me-2"><i class="fa-brands fa-facebook"></i></a>
+                <a href="#" class="me-2"><i class="fa-brands fa-twitter"></i></a>
+                <a href="#"><i class="fa-brands fa-youtube"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <nav class="navbar navbar-expand-lg custom-navbar">
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center" href="#">
+                <img src="~/images/logoht.jpg" height="50" alt="Logo">
+                <span class="ms-2 fw-bold text-primary">Mái Ấm Yêu Thương</span>
+            </a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#">Trang Chủ</a></li>
+
+                    <!-- Dropdown Menu -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="gioiThieuDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Giới Thiệu
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="gioiThieuDropdown">
+                            <li><a class="dropdown-item" href="#">Tổ chức</a></li>
+                            <li><a class="dropdown-item" href="#">Lịch sử</a></li>
+                           
+                        </ul>
+                    </li>
+                   
+
+                    <!-- Dropdown Menu -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="chuongTrinhDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Chương Trình
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="chuongTrinhDropdown">
+                            <li><a class="dropdown-item" href="#">Hỗ trợ người vô gia cư</a></li>
+                            <li><a class="dropdown-item" href="#">Hỗ trợ việc làm</a></li>
+                            <li><a class="dropdown-item" href="#">Hỗ trợ thực phẩm</a></li>
+                            <li><a class="dropdown-item" href="#">Việc làm</a></li>
+                        </ul>
+                    </li>
+
+                 
+                    <!-- Dropdown Menu -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="DonggopDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Đóng Góp
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="DonggopDropdown">
+                            <li><a class="dropdown-item" href="#">Hướng dẫn đóng góp</a></li>
+                            <li><a class="dropdown-item" href="#">Cập nhật đóng góp</a></li>
+                          
+                        </ul>
+                    </li>
+
+                    <!-- Dropdown Menu -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="baoCaoDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Báo Cáo Tài Chính
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="baoCaoDropdown">
+                            <li><a class="dropdown-item" href="#">Báo Cáo 2024</a></li>
+                            <li><a class="dropdown-item" href="#">Báo Cáo 2023</a></li>
+                        </ul>
+                    </li>
+
+
+                  
+                    <!-- Dropdown Menu -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="tinTucDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Tin Tức
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="tinTucDropdown">
+                            <li><a class="dropdown-item" href="#">Bữa ăn giá thấp</a></li>
+                            <li><a class="dropdown-item" href="#">Trợ giúp y tế</a></li>
+                            <li><a class="dropdown-item" href="#">Hỗ trợ nơi ở</a></li>
+                            <li><a class="dropdown-item" href="#">Hỗ trợ việc làm</a></li>
+                        </ul>
+                    </li>
+
+                   
+                    <!-- Dropdown Menu -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="lienHeDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Liên Hệ
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="lienHeDropdown">
+                            <li><a class="dropdown-item" href="#">Đăng ký tình nguyện viên</a></li>
+                            <li><a class="dropdown-item" href="#">Liên hệ giúp đỡ</a></li>
+                            
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <main class="container mt-4">
+        @RenderBody()
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3 mt-4">
+        © 2025 Mái Ấm Yêu Thương - Liên hệ: (+84) 902115231
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

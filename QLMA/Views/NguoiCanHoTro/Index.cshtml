@@ -1,0 +1,33 @@
+﻿@model IEnumerable<NguoiCanHoTro>
+
+@{
+    ViewData["Title"] = "Danh sách người cần hỗ trợ";
+}
+
+<h2>Danh Sách Người Cần Hỗ Trợ</h2>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Họ Tên</th>
+            <th>Địa Chỉ</th>
+            <th>Tình Trạng</th>
+            <th>Hành Động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var nguoi in Model)
+        {
+            <tr>
+                <td>@nguoi.ID_NCHT</td>
+                <td>@nguoi.HoTen</td>
+                <td>@nguoi.DiaChi</td>
+                <td>@nguoi.GioiTinh</td>
+                <td>
+                    <a class="btn btn-info btn-sm" href="/NguoiCanHoTro/Details/@nguoi.ID_NCHT">Chi tiết</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

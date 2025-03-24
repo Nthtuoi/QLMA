@@ -1,0 +1,979 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Website\\QLMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\areas\\admin\\views\\shared\\_users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\areas\\admin\\views\\shared\\_users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\areas\\admin\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\areas\\admin\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\views\\nguoicanhotro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\views\\nguoicanhotro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\efphdkvlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\efphdkvlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\qlmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\qlmacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efdiemphatthucphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efdiemphatthucphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\nguoicanhotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\nguoicanhotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\areas\\admin\\views\\program\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\areas\\admin\\views\\program\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efvieclamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efvieclamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\ivieclamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\ivieclamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\migrations\\20250322191154_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\migrations\\20250322191154_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efnguoicanhotrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efnguoicanhotrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\inguoicanhotrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\inguoicanhotrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efqldptprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efqldptprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efquanlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efquanlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efphieudangkyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efphieudangkyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efpdkvlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efpdkvlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efnoiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efnoiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efnhatuyendungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efnhatuyendungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\efnhahaotamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\efnhahaotamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\inhahaotamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\inhahaotamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\iqldptprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\iqldptprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\iquanlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\iquanlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\iphieudkvlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\iphieudkvlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\iphieudangkyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\iphieudangkyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\inoiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\inoiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\inhatuyendungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\inhatuyendungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\idiemphatthucphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\idiemphatthucphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\repository\\ibaocaothongkerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\repository\\ibaocaothongkerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\phieudangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\phieudangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\qldptp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\qldptp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\vieclam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\vieclam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\baocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\diemphatthucpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\diemphatthucpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\tochuctuthien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\tochuctuthien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\tinhnguyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\tinhnguyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\nhahaotam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\nhahaotam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\nhatuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\nhatuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\noio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\noio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\pdkvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\pdkvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\quyengop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\quyengop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|d:\\website\\qlma\\qlma\\models\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A448A7-EDEE-4802-B944-7B7E3D8621BF}|QLMA\\QLMA.csproj|solutionrelative:qlma\\models\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Users.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\Shared\\_Users.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Areas\\Admin\\Views\\Shared\\_Users.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\Shared\\_Users.cshtml",
+              "RelativeToolTip": "QLMA\\Areas\\Admin\\Views\\Shared\\_Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T06:38:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "QLMA\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T17:37:05.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "QLMA\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T06:18:09.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QLMA\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QLMA\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:27:11.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "QLMA\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T17:34:49.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLMA\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLMA\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:59:20.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.css",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\wwwroot\\css\\Admin.css",
+              "RelativeDocumentMoniker": "QLMA\\wwwroot\\css\\Admin.css",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\wwwroot\\css\\Admin.css",
+              "RelativeToolTip": "QLMA\\wwwroot\\css\\Admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-24T04:47:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "QLMA\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "QLMA\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T04:01:41.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "QLMA\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "QLMA\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-22T19:38:48.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgramController.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Controllers\\ProgramController.cs",
+              "RelativeDocumentMoniker": "QLMA\\Areas\\Admin\\Controllers\\ProgramController.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Controllers\\ProgramController.cs",
+              "RelativeToolTip": "QLMA\\Areas\\Admin\\Controllers\\ProgramController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:33:56.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QLMA\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:22:27.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "QLMA\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T20:10:56.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Program.cs",
+              "RelativeDocumentMoniker": "QLMA\\Program.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Program.cs",
+              "RelativeToolTip": "QLMA\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:22:52.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "QLMA\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T03:58:05.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QLMA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:25:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLMA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:24:29.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\appsettings.json",
+              "RelativeDocumentMoniker": "QLMA\\appsettings.json",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\appsettings.json",
+              "RelativeToolTip": "QLMA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T13:09:20.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Views\\NguoiCanHoTro\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Views\\NguoiCanHoTro\\Index.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Views\\NguoiCanHoTro\\Index.cshtml",
+              "RelativeToolTip": "QLMA\\Views\\NguoiCanHoTro\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:26:33.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EFPhDKVLRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\EFPhDKVLRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\EFPhDKVLRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\EFPhDKVLRepository.cs",
+              "RelativeToolTip": "QLMA\\EFPhDKVLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:35:13.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "QLMA\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T19:31:41.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QLMAContext.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\QLMAContext.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\QLMAContext.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\QLMAContext.cs",
+              "RelativeToolTip": "QLMA\\Models\\QLMAContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:28:48.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EFDiemPhatThucPhamRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFDiemPhatThucPhamRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFDiemPhatThucPhamRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFDiemPhatThucPhamRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFDiemPhatThucPhamRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:16:50.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ADMIN.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\ADMIN.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\ADMIN.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\ADMIN.cs",
+              "RelativeToolTip": "QLMA\\Models\\ADMIN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:08:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NguoiCanHoTro.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\NguoiCanHoTro.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\NguoiCanHoTro.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\NguoiCanHoTro.cs",
+              "RelativeToolTip": "QLMA\\Models\\NguoiCanHoTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:00:37.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\Program\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLMA\\Areas\\Admin\\Views\\Program\\Index.cshtml",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Areas\\Admin\\Views\\Program\\Index.cshtml",
+              "RelativeToolTip": "QLMA\\Areas\\Admin\\Views\\Program\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T17:37:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EFViecLamRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFViecLamRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFViecLamRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFViecLamRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFViecLamRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:00:17.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IViecLamRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\IViecLamRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\IViecLamRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\IViecLamRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\IViecLamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:00:57.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250322191154_Initial.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Migrations\\20250322191154_Initial.cs",
+              "RelativeDocumentMoniker": "QLMA\\Migrations\\20250322191154_Initial.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Migrations\\20250322191154_Initial.cs",
+              "RelativeToolTip": "QLMA\\Migrations\\20250322191154_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:11:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EFNguoiCanHoTroRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFNguoiCanHoTroRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFNguoiCanHoTroRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFNguoiCanHoTroRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFNguoiCanHoTroRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:17:32.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "INguoiCanHoTroRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\INguoiCanHoTroRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\INguoiCanHoTroRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\INguoiCanHoTroRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\INguoiCanHoTroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:51:03.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EFQLDPTPRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFQLDPTPRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFQLDPTPRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFQLDPTPRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFQLDPTPRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA/wCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:20:53.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EFQuanLyRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFQuanLyRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFQuanLyRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFQuanLyRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFQuanLyRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:24:25.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EFPhieuDangKyRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFPhieuDangKyRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFPhieuDangKyRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFPhieuDangKyRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFPhieuDangKyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:19:19.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EFPDKVLRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFPDKVLRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFPDKVLRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFPDKVLRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFPDKVLRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:20:08.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EFNoiORepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFNoiORepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFNoiORepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFNoiORepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFNoiORepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:18:58.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EFNhaTuyenDungRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFNhaTuyenDungRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFNhaTuyenDungRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFNhaTuyenDungRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFNhaTuyenDungRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:18:20.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EFNhaHaoTamRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\EFNhaHaoTamRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\EFNhaHaoTamRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\EFNhaHaoTamRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\EFNhaHaoTamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:18:02.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "INhaHaoTamRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\INhaHaoTamRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\INhaHaoTamRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\INhaHaoTamRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\INhaHaoTamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:57:31.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IQLDPTPRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\IQLDPTPRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\IQLDPTPRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\IQLDPTPRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\IQLDPTPRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:02:33.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IQuanLyRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\IQuanLyRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\IQuanLyRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\IQuanLyRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\IQuanLyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:04:35.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IPhieuDKVLRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\IPhieuDKVLRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\IPhieuDKVLRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\IPhieuDKVLRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\IPhieuDKVLRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:59:24.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IPhieuDangKyRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\IPhieuDangKyRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\IPhieuDangKyRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\IPhieuDangKyRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\IPhieuDangKyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:58:55.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "INoiORepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\INoiORepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\INoiORepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\INoiORepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\INoiORepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:58:27.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "INhaTuyenDungRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\INhaTuyenDungRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\INhaTuyenDungRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\INhaTuyenDungRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\INhaTuyenDungRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:58:06.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IDiemPhatThucPhamRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\IDiemPhatThucPhamRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\IDiemPhatThucPhamRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\IDiemPhatThucPhamRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\IDiemPhatThucPhamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:56:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IBaoCaoThongKeRepository.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Repository\\IBaoCaoThongKeRepository.cs",
+              "RelativeDocumentMoniker": "QLMA\\Repository\\IBaoCaoThongKeRepository.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Repository\\IBaoCaoThongKeRepository.cs",
+              "RelativeToolTip": "QLMA\\Repository\\IBaoCaoThongKeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:56:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PhieuDangKy.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\PhieuDangKy.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\PhieuDangKy.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\PhieuDangKy.cs",
+              "RelativeToolTip": "QLMA\\Models\\PhieuDangKy.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:07:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "QLDPTP.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\QLDPTP.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\QLDPTP.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\QLDPTP.cs",
+              "RelativeToolTip": "QLMA\\Models\\QLDPTP.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:28:43.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ViecLam.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\ViecLam.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\ViecLam.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\ViecLam.cs",
+              "RelativeToolTip": "QLMA\\Models\\ViecLam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:03:42.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BaoCaoThongKe.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\BaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\BaoCaoThongKe.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\BaoCaoThongKe.cs",
+              "RelativeToolTip": "QLMA\\Models\\BaoCaoThongKe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:08:52.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DiemPhatThucPham.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\DiemPhatThucPham.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\DiemPhatThucPham.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\DiemPhatThucPham.cs",
+              "RelativeToolTip": "QLMA\\Models\\DiemPhatThucPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:08:06.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ToChucTuThien.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\ToChucTuThien.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\ToChucTuThien.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\ToChucTuThien.cs",
+              "RelativeToolTip": "QLMA\\Models\\ToChucTuThien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:02:18.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TinhNguyenVien.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\TinhNguyenVien.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\TinhNguyenVien.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\TinhNguyenVien.cs",
+              "RelativeToolTip": "QLMA\\Models\\TinhNguyenVien.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:02:51.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "NhaHaoTam.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\NhaHaoTam.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\NhaHaoTam.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\NhaHaoTam.cs",
+              "RelativeToolTip": "QLMA\\Models\\NhaHaoTam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:03:12.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "NhaTuyenDung.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\NhaTuyenDung.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\NhaTuyenDung.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\NhaTuyenDung.cs",
+              "RelativeToolTip": "QLMA\\Models\\NhaTuyenDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:03:28.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "NoiO.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\NoiO.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\NoiO.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\NoiO.cs",
+              "RelativeToolTip": "QLMA\\Models\\NoiO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:03:53.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PDKVL.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\PDKVL.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\PDKVL.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\PDKVL.cs",
+              "RelativeToolTip": "QLMA\\Models\\PDKVL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:13:21.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QuyenGop.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\QuyenGop.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\QuyenGop.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\QuyenGop.cs",
+              "RelativeToolTip": "QLMA\\Models\\QuyenGop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:08:19.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "QuanLy.cs",
+              "DocumentMoniker": "D:\\Website\\QLMA\\QLMA\\Models\\QuanLy.cs",
+              "RelativeDocumentMoniker": "QLMA\\Models\\QuanLy.cs",
+              "ToolTip": "D:\\Website\\QLMA\\QLMA\\Models\\QuanLy.cs",
+              "RelativeToolTip": "QLMA\\Models\\QuanLy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:15:40.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
